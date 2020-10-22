@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+por fin el lapiz no esta hay que usar edit file
 Utiliza la flecha hacia la izquierda para volver!
